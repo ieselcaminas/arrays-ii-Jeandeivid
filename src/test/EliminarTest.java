@@ -1,7 +1,7 @@
-import org.junit.jupiter.api.DisplayName;
+package test;
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
+import main.*;
 
 class EliminarTest {
 

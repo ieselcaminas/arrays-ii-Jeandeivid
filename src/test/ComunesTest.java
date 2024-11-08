@@ -1,7 +1,7 @@
+package test;
 import org.junit.jupiter.api.DisplayName;
-
 import static org.junit.jupiter.api.Assertions.*;
-
+import main.*;
 class ComunesTest {
 
     @org.junit.jupiter.api.Test
